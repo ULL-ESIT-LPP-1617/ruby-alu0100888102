@@ -1,3 +1,7 @@
 Respuestas de Primeros Pasos en Ruby
 
 En este momento hay 3 ramas, la rama doc  y la rama master locales y la rama master del repositorio remoto.
+
+*----*-----------*El head se encuentra aqui
+	  \
+	    -*
