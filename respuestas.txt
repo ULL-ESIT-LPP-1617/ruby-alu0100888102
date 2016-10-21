@@ -18,3 +18,5 @@ Hola mundo
  => nil 
 2.3.0 :001 > 
 En cambio el interprete de ruby no interactivo simplemente muestra el "Hola Mundo"
+
+pry se comporta como el interprete normal al ejecutar el programa "Hola Mundo"
