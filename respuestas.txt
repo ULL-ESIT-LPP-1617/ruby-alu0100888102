@@ -11,3 +11,10 @@ En este momento hay 3 ramas, la rama doc  y la rama master locales y la rama mas
 
 
 RVM es el Ruby Version Manager. Gestiona los interpretes de ruby.
+
+El interprete de ruby interactivo ejecuta los comandos linea a linea como si los introdujeras manualmente, y muestra toda la salida.
+2.3.0 :001 > puts "Hola mundo"2.3.0 :001 > 
+Hola mundo
+ => nil 
+2.3.0 :001 > 
+En cambio el interprete de ruby no interactivo simplemente muestra el "Hola Mundo"
