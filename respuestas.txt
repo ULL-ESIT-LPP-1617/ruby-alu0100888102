@@ -5,3 +5,6 @@ En este momento hay 3 ramas, la rama doc  y la rama master locales y la rama mas
 *----*-----------*El head se encuentra aqui
 	  \
 	    -*
+	    
+
+*---*(ghp04/master)---*---*---*---*(Doc, Master, HEAD)
